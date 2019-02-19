@@ -17,7 +17,7 @@ def accum(tempstr):
 
 
 num_list = [1, -4, 7, 12]
-tempstr = "RqaEzty"
+tempstr = "RqaEztyuW"
 
 print(positive_sum(num_list))
 print(accum(tempstr))
